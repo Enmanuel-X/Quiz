@@ -26,8 +26,8 @@ export const data = [
             `Less`,
             `Sass`,
             `PostCss`,
-            `NextCss`
+            `NextCSS`
         ], 
-        answer: `PostCss`
+        answer: `NextCSS`
     },
  ];
